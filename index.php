@@ -153,6 +153,22 @@ https://templatemo.com/tm-590-topic-listing
             </nav>
             
 
+            <header class="site-header d-flex flex-column justify-content-center align-items-center">
+                <div class="container">
+                    <div class="row justify-content-center align-items-center">
+
+                        <div class="col-lg-5 col-12 mb-5">
+                            <h2 class="text-white">Nos Studio</h2>
+                            <p class="text-white">Müzik Stüdyosu</p>
+                            <a href="https://github.com/erdincddmr/Nos-Studio.git" target="_blank" class="btn custom-btn custom-border-btn mt-3">
+                                <i class="bi-github"></i> GitHub Projesi
+                            </a>
+                        </div>
+
+                    </div>
+                </div>
+            </header>
+
             <section class="hero-section d-flex justify-content-center align-items-center" id="section_1">
                 <div class="container">
                     <div class="row">
